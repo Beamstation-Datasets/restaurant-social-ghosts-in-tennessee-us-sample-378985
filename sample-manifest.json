@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cd2c0768-5be1-435b-8b95-e09995e3dd88",
+  "id_short": 378985,
+  "published_at": "2026-04-11T19:44:50Z",
+  "repo_name": "restaurant-social-ghosts-in-tennessee-us-sample-378985",
+  "sample_asset_name": "beamstation_378985_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/378985/beamstation_378985_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_records": 28,
+  "sample_sha256": "16bde1f7875afed1dc7c1f4555eaef7938f05ffd65013aa826d2390e6250a9f4",
+  "sample_size_bytes": 114644,
+  "total_records": 287
+}
