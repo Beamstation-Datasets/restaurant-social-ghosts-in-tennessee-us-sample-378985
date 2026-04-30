@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Tennessee, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `378985` |
 | Location | Tennessee |
 | Category | Restaurants |
-| Full dataset size | 64 records |
-| Free sample size | 6 records (9.38%) |
-| Last export | 2026-04-22T19:10:07.202015+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-29T18:22:57.697718+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-tennessee-us-sample-378985/releases/download/sample-latest/beamstation_378985_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
